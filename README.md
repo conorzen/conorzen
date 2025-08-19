@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Conor  
 
-💡 **Data & Finance Enthusiast | BI Manager | Aspiring Quant**  
 I love turning messy data into clean insights, and building tools that make numbers tell a story.  
 
 ---
@@ -33,7 +32,7 @@ I love turning messy data into clean insights, and building tools that make numb
         <br />
         <b>Financial Analysis</b>
       </a>
-      <p>Comprehensive financial data insights and dashboards.</p>
+      <p>Comprehensive financial data insights.</p>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/conorzen/realmaths">
@@ -64,14 +63,6 @@ I love turning messy data into clean insights, and building tools that make numb
 - 📚 Advanced **risk management** (MSc Finance)  
 - ⚙️ **Data engineering foundations** with Airflow, BigQuery, and dbt  
 - ✨ How to ship clean, portfolio-ready code (and better README files!)  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=conorzen&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conorzen&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>  
 
 ---
 
