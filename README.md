@@ -8,17 +8,17 @@ I love turning messy data into clean insights, and building tools that make numb
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="25%">
       <a href="https://github.com/conorzen/dataprocesslite">
-        <img src="Screenshot 2025-08-19 at 19.21.24.png" width="400" alt="DataProcessLite Project Thumbnail"/>
+        <img src="Screenshot 2025-08-19 at 19.21.24.png" width="200" alt="DataProcessLite Project Thumbnail"/>
         <br />
         <b>DataProcessLite</b>
       </a>
       <p>A lightweight data processing ETL tool.</p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="25%">
       <a href="https://github.com/conorzen/blackscholesmodel">
-        <img src="Screenshot 2025-08-19 at 19.35.42.png" width="400" alt="Black-Scholes Model Thumbnail"/>
+        <img src="Screenshot 2025-08-19 at 19.35.42.png" width="200" alt="Black-Scholes Model Thumbnail"/>
         <br />
         <b>Black-Scholes Model</b>
       </a>
@@ -28,7 +28,7 @@ I love turning messy data into clean insights, and building tools that make numb
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/conorzen/financial-analysis">
-        <img src="Screenshot 2025-08-19 at 19.35.56.png" width="400" alt="Financial Analysis Thumbnail"/>
+        <img src="Screenshot 2025-08-19 at 19.35.56.png" width="200" alt="Financial Analysis Thumbnail"/>
         <br />
         <b>Financial Analysis</b>
       </a>
@@ -36,11 +36,11 @@ I love turning messy data into clean insights, and building tools that make numb
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/conorzen/realmaths">
-        <img src="Screenshot 2025-08-19 at 19.36.19.png" width="400" alt="RealMaths Thumbnail"/>
+        <img src="Screenshot 2025-08-19 at 19.36.19.png" width="200" alt="RealMaths Thumbnail"/>
         <br />
         <b>RealMaths</b>
       </a>
-      <p>Educational math toolkit for real-world problem solving.</p>
+      <p>Educational math toolkit for problem solving.</p>
     </td>
   </tr>
 </table>
